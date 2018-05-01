@@ -1,2 +1,2 @@
-# Spce
-个人的Spec
+# Specs
+个人Specs仓库
